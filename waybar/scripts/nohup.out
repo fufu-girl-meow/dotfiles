@@ -1,0 +1,167 @@
+[2025-05-10 17:37:19.350] [info] Using configuration file /home/lovelytransgirl/.config/waybar/config.jsonc
+[2025-05-10 17:37:19.352] [info] Discovered appearance 'dark'
+[2025-05-10 17:37:19.352] [info] Using CSS file /home/lovelytransgirl/.config/waybar/style.css
+[2025-05-10 17:37:19.358] [info] Hyprland IPC starting
+[2025-05-10 17:37:19.358] [info] Loading persistent workspaces from Waybar config
+[2025-05-10 17:37:19.358] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-10 17:37:19.364] [warning] module cava: Unknown module: cava
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/media-player.py: Permission denied
+[2025-05-10 17:37:19.369] [error] media stopped unexpectedly, is it endless?
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+[2025-05-10 17:37:19.407] [info] Bar configured (width: 1920, height: 43) for output: eDP-1
+
+** (waybar:18478): WARNING **: 17:37:19.413: Status Notifier Item with bus name ':1.13' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/bluetooth-menu.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/bluetooth-menu.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/bluetooth-menu.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/volume-control.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/volume-control.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/power-menu.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+sh: line 1: /home/lovelytransgirl/.config/waybar/scripts/wifi-status.sh: Permission denied
+[2025-05-10 17:42:48.374] [info] Using configuration file /home/lovelytransgirl/.config/waybar/config.jsonc
+[2025-05-10 17:42:48.376] [info] Discovered appearance 'dark'
+[2025-05-10 17:42:48.376] [info] Using CSS file /home/lovelytransgirl/.config/waybar/style.css
+[2025-05-10 17:42:48.383] [info] Hyprland IPC starting
+[2025-05-10 17:42:48.383] [info] Loading persistent workspaces from Waybar config
+[2025-05-10 17:42:48.383] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-10 17:42:48.387] [warning] module cava: Unknown module: cava
+[2025-05-10 17:42:48.434] [info] Bar configured (width: 1920, height: 43) for output: eDP-1
+
+** (waybar:22436): WARNING **: 17:42:48.449: Status Notifier Item with bus name ':1.13' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-05-10 17:43:07.246] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-05-10 17:43:07.261] [info] Loading persistent workspaces from Waybar config
+[2025-05-10 17:43:07.261] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-10 17:43:16.279] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-05-10 17:43:16.290] [info] Bar configured (width: 1920, height: 43) for output: eDP-1
+[2025-05-10 17:43:16.293] [info] Bar configured (width: 1280, height: 43) for output: eDP-1
+[2025-05-10 17:43:16.442] [info] Bar configured (width: 1280, height: 43) for output: eDP-1
+[2025-05-10 17:43:16.458] [info] Bar configured (width: 1920, height: 43) for output: eDP-1
+[2025-05-10 17:43:16.498] [info] Loading persistent workspaces from Waybar config
+[2025-05-10 17:43:16.499] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-10 17:43:16.521] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-05-10 17:43:16.525] [info] Loading persistent workspaces from Waybar config
+[2025-05-10 17:43:16.525] [info] Loading persistent workspaces from Hyprland workspace rules
+/home/lovelytransgirl/.config/waybar/scripts/power-menu.sh: line 8: rofi: command not found
+/home/lovelytransgirl/.config/waybar/scripts/bluetooth-menu.sh: line 53: rofi: command not found
+
+(waybar:22436): LIBDBUSMENU-GTK-WARNING **: 17:45:17.996: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:22436): LIBDBUSMENU-GTK-WARNING **: 17:45:18.874: The child-display variable is set to '(null)' but there's a menu, odd?

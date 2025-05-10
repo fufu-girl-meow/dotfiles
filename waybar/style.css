@@ -1,0 +1,179 @@
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  font-weight: bold;
+  font-size: 12px;
+  min-height: 0;
+  padding: 0;
+  border: none;
+  margin: 2px;
+}
+
+/* === Main Background === */
+
+window#waybar {
+  background: transparent;
+}
+
+/* === Tooltip === */
+
+tooltip {
+  background: #232634;
+  border: solid;
+  border-width: 1.5px;
+  border-radius: 8px;
+  border-color: #cdd6f4;
+}
+tooltip label {
+  color: #f4b8e4;
+  font-weight: normal;
+  margin: -1.5px 3px;
+}
+
+/* === Workspace Buttons === */
+
+#workspaces button {
+  border-radius: 8px;
+  box-shadow: none;
+  margin: 2px 0;
+  padding: 0 2px;
+  transition: none;
+}
+#workspaces button:hover {
+  color: #232634;
+  background: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+  margin: 3px 0;
+  padding: 0 6px;
+}
+#workspaces button.active {
+  color: #232634;
+  background: #ca9ee6;
+  margin: 3px 0;
+  padding: 0 6px;
+}
+
+/* == Workspaces == */
+
+#workspaces {
+  background: #232634;
+  padding: 0 4px;
+  border-radius: 7px;
+}
+
+/* == Time == */
+
+#clock {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px;
+}
+
+/* == Tray == */
+
+#custom-wifi {
+  padding-left: 8px;
+  padding-right: 11px;
+  background: #232634;
+  border-radius: 7px;
+}
+#custom-wifi:hover {
+  color: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+#bluetooth {
+  padding-right: 8px;
+  padding-left: 8px;
+  background: #232634;
+  border-radius: 7px;
+}
+#bluetooth:hover {
+  color: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+/* == Media Info == */
+
+#custom-media {
+  font-weight: normal;
+  background-color: #232634;
+  padding-right: 8px;
+  padding-left: 8px;
+  border-radius: 7px;
+}
+#custom-media:hover {
+  color: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+/* == Output Device == */
+
+#pulseaudio {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px;
+}
+
+#pulseaudio:hover {
+  color: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+/* == Battery == */
+
+#battery {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px;
+}
+
+/* == Power Button == */
+
+#custom-power {
+  color: #232634;
+  background: #ca9ee6;
+  border-radius: 7px;
+  padding: 0 6px 0 9px;
+}
+#custom-power:hover {
+  background: #f4b8e4;
+  text-shadow: none;
+  box-shadow: none;
+}
+
+/* == Tray == */
+
+#tray {
+  background: #232634;
+  padding: 0 4px;
+  border-radius: 7px;
+}
+
+/* == Lyrics == */
+
+#custom-lyrics {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px; 
+}
+
+/* == Cava == */
+
+#cava {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px;
+}
+
+/* == Window == */
+
+#window {
+  background: #232634;
+  padding: 0 8px;
+  border-radius: 7px;
+}
